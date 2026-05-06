@@ -1,0 +1,42 @@
+{
+  "24h": {
+    "period": "24h",
+    "placed_trades": 0,
+    "total_spent": 0,
+    "total_trades": 0,
+    "won": 0,
+    "lost": 0,
+    "winrate_pct": 0.0,
+    "total_pnl": 0,
+    "avg_bet": 0.0,
+    "best_trade": 0.0,
+    "worst_trade": 0.0
+  },
+  "7d": {
+    "period": "7d",
+    "placed_trades": 0,
+    "total_spent": 0,
+    "total_trades": 0,
+    "won": 0,
+    "lost": 0,
+    "winrate_pct": 0.0,
+    "total_pnl": 0,
+    "avg_bet": 0.0,
+    "best_trade": 0.0,
+    "worst_trade": 0.0
+  },
+  "all": {
+    "period": "all",
+    "placed_trades": 0,
+    "total_spent": 0,
+    "total_trades": 0,
+    "won": 0,
+    "lost": 0,
+    "winrate_pct": 0.0,
+    "total_pnl": 0,
+    "avg_bet": 0.0,
+    "best_trade": 0.0,
+    "worst_trade": 0.0
+  },
+  "synced_at": "2026-05-06T14:32:21.518200+00:00"
+}
