@@ -1,5 +1,16 @@
 [
   {
+    "id": 8,
+    "session_id": "3110b75b16504e91",
+    "agent_name": "claude",
+    "condition_id": "0x9c1a953fe92c8357f1b646ba25d983aa83e90c525992db14fb726fa895cb5763",
+    "recommendation": "No",
+    "confidence": 0.62,
+    "reason": "Russia's scaled-back Victory Day parade (no military hardware) suggests the Ukraine war is prolonged and not progressing as planned, indicating a ceasefire is less likely to occur before GTA VI",
+    "is_judge": 0,
+    "timestamp": "2026-05-07T16:04:56.650613+00:00"
+  },
+  {
     "id": 7,
     "session_id": "db80a4b75aef4571",
     "agent_name": "claude",
