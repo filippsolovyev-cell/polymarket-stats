@@ -1,5 +1,38 @@
 [
   {
+    "id": 11,
+    "session_id": "ceb70976d53e4bbe",
+    "agent_name": "claude",
+    "condition_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "recommendation": "No",
+    "confidence": 0.72,
+    "reason": "Trump's feud with Pope Leo XIV suggests active earthly political conflict rather than Jesus Christ's return occurring before GTA VI",
+    "is_judge": 0,
+    "timestamp": "2026-05-07T18:47:24.483870+00:00"
+  },
+  {
+    "id": 10,
+    "session_id": "b32549400ed7416a",
+    "agent_name": "claude",
+    "condition_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "recommendation": "No",
+    "confidence": 0.6,
+    "reason": "Article indicates Trump's Middle East peace efforts are struggling with Iran mocking his 'Project Freedom' and Saudi Arabia withdrawing base cooperation, suggesting geopolitical instability makes major conflicts like Taiwan invasion less imminent in near term",
+    "is_judge": 0,
+    "timestamp": "2026-05-07T17:58:52.013376+00:00"
+  },
+  {
+    "id": 9,
+    "session_id": "9a917e97a59249ec",
+    "agent_name": "claude",
+    "condition_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "recommendation": "No",
+    "confidence": 0.55,
+    "reason": "House Republican proposing to limit Iran military force suggests active congressional debate on military engagement, indicating Trump may remain in office to influence such policy decisions, slightly favoring 'No' on Trump being out before GTA VI",
+    "is_judge": 0,
+    "timestamp": "2026-05-07T17:01:52.324953+00:00"
+  },
+  {
     "id": 8,
     "session_id": "3110b75b16504e91",
     "agent_name": "claude",
