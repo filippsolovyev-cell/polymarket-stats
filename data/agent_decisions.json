@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "id": 7,
+    "session_id": "db80a4b75aef4571",
+    "agent_name": "claude",
+    "condition_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "recommendation": "No",
+    "confidence": 0.55,
+    "reason": "Article discusses ongoing legal battles over 2020 election records related to Trump's activities in Georgia, indicating continued legal entanglement that may extend his presidency timeline or affect 'Trump out as President before GTA VI' outcome, though this is a weak indirect signal",
+    "is_judge": 0,
+    "timestamp": "2026-05-07T14:15:28.200512+00:00"
+  },
+  {
+    "id": 6,
+    "session_id": "1ff1a353253f4bd1",
+    "agent_name": "claude",
+    "condition_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "recommendation": "Yes",
+    "confidence": 0.62,
+    "reason": "Article reports China gaining increased influence in Asia due to regional instability, which could increase pressure and likelihood of Chinese military action toward Taiwan as Beijing seeks to consolidate regional dominance.",
+    "is_judge": 0,
+    "timestamp": "2026-05-07T13:20:17.236724+00:00"
+  },
+  {
+    "id": 5,
+    "session_id": "721f45e51cbf4b25",
+    "agent_name": "claude",
+    "condition_id": "0xe459d1b598da754c9fd5fc155b6efe3a144aa80abbc7d041fce7d35d903d3c8e",
+    "recommendation": "No",
+    "confidence": 0.65,
+    "reason": "White House targeting July 4 for Clarity Act passage suggests crypto regulation progress, which could negatively impact MegaETH airdrop likelihood by June 30 due to regulatory uncertainty",
+    "is_judge": 0,
+    "timestamp": "2026-05-07T12:11:51.020752+00:00"
+  },
+  {
+    "id": 4,
+    "session_id": "fa9d3fbb1682449a",
+    "agent_name": "claude",
+    "condition_id": "0x6b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "recommendation": "Yes",
+    "confidence": 0.58,
+    "reason": "China's internal military purges and suspended death sentences for defense ministers suggest political instability and potential for aggressive foreign policy actions, slightly increasing likelihood of Taiwan invasion scenario before GTA VI",
+    "is_judge": 0,
+    "timestamp": "2026-05-07T11:15:39.639715+00:00"
+  },
+  {
+    "id": 3,
+    "session_id": "0883ec620a6247a9",
+    "agent_name": "claude",
+    "condition_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "recommendation": "Yes",
+    "confidence": 0.62,
+    "reason": "Democrats suggest Trump would fire Commerce Secretary Lutnick over Epstein testimony scandal, indicating potential instability in Trump administration that could lead to his removal from office before GTA VI release",
+    "is_judge": 0,
+    "timestamp": "2026-05-06T22:08:16.527640+00:00"
+  },
+  {
+    "id": 2,
+    "session_id": "4ae381602a274eb6",
+    "agent_name": "claude",
+    "condition_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "recommendation": "No",
+    "confidence": 0.65,
+    "reason": "JD Vance, currently Vice President, is visiting Iowa for the 2028 nominating process, indicating he is actively campaigning to remain in or gain higher political office, suggesting Trump will likely remain as President or the ticket will continue without Trump being out of office before GTA VI release.",
+    "is_judge": 0,
+    "timestamp": "2026-05-06T21:24:48.172662+00:00"
+  },
+  {
+    "id": 1,
+    "session_id": "ebb2b1721c374a3e",
+    "agent_name": "claude",
+    "condition_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "recommendation": "No",
+    "confidence": 0.55,
+    "reason": "FBI corruption investigation of Democratic Senator Lucas suggests potential legal vulnerabilities for Biden administration officials, which could marginally increase likelihood Trump remains in office, but the connection is indirect and speculative.",
+    "is_judge": 0,
+    "timestamp": "2026-05-06T19:57:57.283324+00:00"
+  }
+]
