@@ -1,5 +1,16 @@
 [
   {
+    "id": 13,
+    "session_id": "d36fffb62de744dd",
+    "agent_name": "claude",
+    "condition_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "recommendation": "Yes",
+    "confidence": 0.72,
+    "reason": "Article discusses Trump's 'looming defeat' and political crisis, suggesting increased likelihood of Trump leaving office before GTA VI release",
+    "is_judge": 0,
+    "timestamp": "2026-05-08T10:05:20.419841+00:00"
+  },
+  {
     "id": 12,
     "session_id": "969f54c0de264441",
     "agent_name": "claude",
