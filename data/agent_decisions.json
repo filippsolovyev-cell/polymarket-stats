@@ -1,5 +1,82 @@
 [
   {
+    "id": 20,
+    "session_id": "405c9588e8a74d51",
+    "agent_name": "claude",
+    "condition_id": "0x9c1a953fe92c8357f1b646ba25d983aa83e90c525992db14fb726fa895cb5763",
+    "recommendation": "No",
+    "confidence": 0.55,
+    "reason": "Discovery of explosive naval drone in Ionian Sea suggests active military operations and escalation, indicating Russia-Ukraine conflict is unlikely to reach ceasefire before GTA VI release",
+    "is_judge": 0,
+    "timestamp": "2026-05-08T17:57:10.275984+00:00"
+  },
+  {
+    "id": 19,
+    "session_id": "0b79437978764d59",
+    "agent_name": "claude",
+    "condition_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "recommendation": "No",
+    "confidence": 0.6,
+    "reason": "Trump's legal defeat on tariffs weakens his negotiating position with China, making aggressive trade conflict and military escalation less likely in the near term, reducing Taiwan invasion probability",
+    "is_judge": 0,
+    "timestamp": "2026-05-08T16:48:10.908976+00:00"
+  },
+  {
+    "id": 18,
+    "session_id": "928813a649e5401a",
+    "agent_name": "claude",
+    "condition_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "recommendation": "Yes",
+    "confidence": 0.58,
+    "reason": "Iran's accusation of US 'reckless military adventure' and rejection of diplomatic solutions increases tensions and raises the probability of military escalation in the region, which could escalate to Taiwan-related conflicts or broader geopolitical instability.",
+    "is_judge": 0,
+    "timestamp": "2026-05-08T15:14:41.647700+00:00"
+  },
+  {
+    "id": 17,
+    "session_id": "8f8869286004470a",
+    "agent_name": "claude",
+    "condition_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "recommendation": "No",
+    "confidence": 0.55,
+    "reason": "US economic uncertainty from Iran war tensions may negatively impact team performance and roster stability heading into 2026 NBA season",
+    "is_judge": 0,
+    "timestamp": "2026-05-08T12:39:20.528788+00:00"
+  },
+  {
+    "id": 16,
+    "session_id": "1c5d924b5af84ea2",
+    "agent_name": "claude",
+    "condition_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "recommendation": "No",
+    "confidence": 0.55,
+    "reason": "Coinbase missing earnings and reporting surprise loss suggests cryptocurrency market weakness, making bitcoin hitting $1m before GTA VI less likely",
+    "is_judge": 0,
+    "timestamp": "2026-05-08T11:56:03.662833+00:00"
+  },
+  {
+    "id": 15,
+    "session_id": "c9a51c1c87824d2e",
+    "agent_name": "claude",
+    "condition_id": "0x9c1a953fe92c8357f1b646ba25d983aa83e90c525992db14fb726fa895cb5763",
+    "recommendation": "No",
+    "confidence": 0.72,
+    "reason": "News reports that Russia and Ukraine breached the Victory Day ceasefire within hours, with both sides reporting hundreds of drone attacks. This indicates the conflict is far from a lasting ceasefire, making a Russia-Ukraine ceasefire before GTA VI less likely.",
+    "is_judge": 0,
+    "timestamp": "2026-05-08T11:43:40.242505+00:00"
+  },
+  {
+    "id": 14,
+    "session_id": "99529a8555d54504",
+    "agent_name": "claude",
+    "condition_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "recommendation": "No",
+    "confidence": 0.65,
+    "reason": "Trump characterizing Iranian strikes as a 'trifle' suggests de-escalation rather than major conflict escalation toward Taiwan invasion",
+    "is_judge": 0,
+    "timestamp": "2026-05-08T11:31:17.234525+00:00"
+  },
+  {
     "id": 13,
     "session_id": "d36fffb62de744dd",
     "agent_name": "claude",
