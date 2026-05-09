@@ -1,5 +1,38 @@
 [
   {
+    "id": 23,
+    "session_id": "3b1a586d67dd4fbb",
+    "agent_name": "claude",
+    "condition_id": "0x5b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "recommendation": "No",
+    "confidence": 0.6,
+    "reason": "China's record exports and widening trade surplus suggest economic strength and stability, reducing likelihood of military action against Taiwan before GTA VI release",
+    "is_judge": 0,
+    "timestamp": "2026-05-09T15:27:15.116529+00:00"
+  },
+  {
+    "id": 22,
+    "session_id": "750fb6f2dc234f73",
+    "agent_name": "claude",
+    "condition_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+    "recommendation": "No",
+    "confidence": 0.55,
+    "reason": "ABC's First Amendment challenge to Trump administration indicates ongoing legal/political conflict rather than imminent presidential removal, suggesting Trump remains in office",
+    "is_judge": 0,
+    "timestamp": "2026-05-08T18:41:14.916641+00:00"
+  },
+  {
+    "id": 21,
+    "session_id": "74b4ea44499f4be8",
+    "agent_name": "claude",
+    "condition_id": "0x9c1a953fe92c8357f1b646ba25d983aa83e90c525992db14fb726fa895cb5763",
+    "recommendation": "Yes",
+    "confidence": 0.75,
+    "reason": "Trump announces Russia-Ukraine ceasefire starting May 9, which directly indicates a ceasefire will occur before GTA VI release",
+    "is_judge": 0,
+    "timestamp": "2026-05-08T18:28:33.737252+00:00"
+  },
+  {
     "id": 20,
     "session_id": "405c9588e8a74d51",
     "agent_name": "claude",
