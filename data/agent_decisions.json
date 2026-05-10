@@ -1,5 +1,27 @@
 [
   {
+    "id": 25,
+    "session_id": "f1ce749e79534126",
+    "agent_name": "claude",
+    "condition_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "recommendation": "No",
+    "confidence": 0.72,
+    "reason": "Article discusses Trump's potential successors (Vance and Rubio) for 2028, implying Trump remains in office through his current term, reducing likelihood he's out before GTA VI release",
+    "is_judge": 0,
+    "timestamp": "2026-05-10T09:06:41.646036+00:00"
+  },
+  {
+    "id": 24,
+    "session_id": "449c129b35344438",
+    "agent_name": "claude",
+    "condition_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+    "recommendation": "Yes",
+    "confidence": 0.72,
+    "reason": "Thunder moved to brink of Western Conference Finals with dominant victory over Lakers, strengthening their 2026 NBA Finals prospects",
+    "is_judge": 0,
+    "timestamp": "2026-05-10T06:57:58.949143+00:00"
+  },
+  {
     "id": 23,
     "session_id": "3b1a586d67dd4fbb",
     "agent_name": "claude",
