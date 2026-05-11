@@ -1,5 +1,38 @@
 [
   {
+    "id": 33,
+    "session_id": "a4c79502b3094c9e",
+    "agent_name": "claude",
+    "condition_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "recommendation": "Yes",
+    "confidence": 0.72,
+    "reason": "Assassination attempt on Trump increases near-term risk to his presidency, raising probability he could be removed before GTA VI release",
+    "is_judge": 0,
+    "timestamp": "2026-05-11T19:06:04.138677+00:00"
+  },
+  {
+    "id": 32,
+    "session_id": "c727e2eb672b406b",
+    "agent_name": "claude",
+    "condition_id": "0x5b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "recommendation": "No",
+    "confidence": 0.65,
+    "reason": "Trump's diplomatic engagement with China through a presidential visit and bringing 17 CEOs suggests improved US-China relations, reducing the likelihood of Chinese military invasion of Taiwan in the near term",
+    "is_judge": 0,
+    "timestamp": "2026-05-11T18:59:27.011331+00:00"
+  },
+  {
+    "id": 31,
+    "session_id": "1679040a7bff4ad5",
+    "agent_name": "claude",
+    "condition_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "recommendation": "No",
+    "confidence": 0.72,
+    "reason": "Trump is actively conducting presidential duties (organizing China trip with multiple CEOs), indicating he remains in office and is unlikely to be removed before GTA VI release",
+    "is_judge": 0,
+    "timestamp": "2026-05-11T18:28:35.977797+00:00"
+  },
+  {
     "id": 30,
     "session_id": "55e4b0d27eef4696",
     "agent_name": "claude",
