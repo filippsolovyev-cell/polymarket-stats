@@ -1,5 +1,115 @@
 [
   {
+    "id": 43,
+    "session_id": "c167ff26323747c2",
+    "agent_name": "claude",
+    "condition_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+    "recommendation": "No",
+    "confidence": 0.55,
+    "reason": "Ben White's injury impacts England's squad depth, which could marginally affect any competing nation's relative chances, though France's prospects are less directly affected",
+    "is_judge": 0,
+    "timestamp": "2026-05-12T15:23:11.051802+00:00"
+  },
+  {
+    "id": 42,
+    "session_id": "c167ff26323747c2",
+    "agent_name": "claude",
+    "condition_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+    "recommendation": "No",
+    "confidence": 0.65,
+    "reason": "Ben White's season-ending knee injury reduces England's defensive strength, slightly decreasing their chances of winning the 2026 FIFA World Cup",
+    "is_judge": 0,
+    "timestamp": "2026-05-12T15:23:11.049293+00:00"
+  },
+  {
+    "id": 41,
+    "session_id": "d80fd7c4d606422c",
+    "agent_name": "claude",
+    "condition_id": "0x5b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "recommendation": "No",
+    "confidence": 0.72,
+    "reason": "Trump's scheduled high-stakes talks with Xi suggest diplomatic engagement rather than military conflict, reducing near-term Taiwan invasion risk before GTA VI release",
+    "is_judge": 0,
+    "timestamp": "2026-05-12T12:24:07.280843+00:00"
+  },
+  {
+    "id": 40,
+    "session_id": "6d80de0c484f40d2",
+    "agent_name": "claude",
+    "condition_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "recommendation": "No",
+    "confidence": 0.72,
+    "reason": "Trump's state visit to China for diplomacy with Xi Jinping suggests improved US-China relations, reducing the likelihood of Chinese military invasion of Taiwan in the near term",
+    "is_judge": 0,
+    "timestamp": "2026-05-12T11:32:40.820161+00:00"
+  },
+  {
+    "id": 39,
+    "session_id": "b8ecbac2061e40e6",
+    "agent_name": "claude",
+    "condition_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "recommendation": "No",
+    "confidence": 0.65,
+    "reason": "Article indicates Bitcoin is in a bear market down 35% from ATH with warnings of further decline, making $1M target before GTA VI less likely",
+    "is_judge": 0,
+    "timestamp": "2026-05-12T11:26:03.806140+00:00"
+  },
+  {
+    "id": 38,
+    "session_id": "99ee149439334e5e",
+    "agent_name": "claude",
+    "condition_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
+    "recommendation": "No",
+    "confidence": 0.65,
+    "reason": "Bakkt's 77% revenue decline and $0.41 net loss per share in Q1 suggest weakness in crypto market conditions, reducing likelihood of Bitcoin reaching $1M before GTA VI",
+    "is_judge": 0,
+    "timestamp": "2026-05-12T11:14:37.619517+00:00"
+  },
+  {
+    "id": 37,
+    "session_id": "c5e1f56b5a454fc4",
+    "agent_name": "claude",
+    "condition_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "recommendation": "Yes",
+    "confidence": 0.62,
+    "reason": "U.S.-Iran tensions and Trump's hawkish stance increase geopolitical instability in the region, raising the probability of Chinese military action against Taiwan as global attention and U.S. resources become more divided",
+    "is_judge": 0,
+    "timestamp": "2026-05-12T09:08:01.746863+00:00"
+  },
+  {
+    "id": 36,
+    "session_id": "e900d3e14dff4b4a",
+    "agent_name": "claude",
+    "condition_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "recommendation": "No",
+    "confidence": 0.65,
+    "reason": "Xi Jinping is negotiating with Trump on Taiwan arms sales rather than pursuing military invasion. Diplomatic engagement suggests China prefers negotiation over military conflict in the near term.",
+    "is_judge": 0,
+    "timestamp": "2026-05-12T04:05:03.603216+00:00"
+  },
+  {
+    "id": 35,
+    "session_id": "5b6eb841d1cf421f",
+    "agent_name": "claude",
+    "condition_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "recommendation": "No",
+    "confidence": 0.62,
+    "reason": "Former World Bank chief criticizing China's hoarding and development status claims suggests economic/political friction that could reduce Taiwan invasion likelihood by demonstrating China's international isolation and reputational damage from aggressive actions",
+    "is_judge": 0,
+    "timestamp": "2026-05-12T03:26:46.169792+00:00"
+  },
+  {
+    "id": 34,
+    "session_id": "77ab62c1128c4652",
+    "agent_name": "claude",
+    "condition_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "recommendation": "No",
+    "confidence": 0.75,
+    "reason": "Trump is actively engaged in geopolitical negotiations and military strategy decisions regarding Iran and the Strait of Hormuz, indicating he remains in the presidency and is unlikely to be removed before GTA VI's release",
+    "is_judge": 0,
+    "timestamp": "2026-05-12T01:05:10.968511+00:00"
+  },
+  {
     "id": 33,
     "session_id": "a4c79502b3094c9e",
     "agent_name": "claude",
