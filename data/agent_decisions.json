@@ -1,5 +1,71 @@
 [
   {
+    "id": 49,
+    "session_id": "80be84cb2c634aaf",
+    "agent_name": "claude",
+    "condition_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "recommendation": "No",
+    "confidence": 0.65,
+    "reason": "Trump's diplomatic engagement with Xi Jinping in Beijing with high-level summit suggests de-escalation of US-China tensions, reducing near-term likelihood of Chinese invasion of Taiwan",
+    "is_judge": 0,
+    "timestamp": "2026-05-13T13:28:20.376692+00:00"
+  },
+  {
+    "id": 48,
+    "session_id": "f88ad2473b274b8d",
+    "agent_name": "claude",
+    "condition_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "recommendation": "Yes",
+    "confidence": 0.62,
+    "reason": "Article discusses Xi Jinping's strategic planning for China's dominance over the U.S., suggesting escalating geopolitical tensions that increase the likelihood of military conflict over Taiwan before GTA VI's release.",
+    "is_judge": 0,
+    "timestamp": "2026-05-13T05:03:41.258126+00:00"
+  },
+  {
+    "id": 47,
+    "session_id": "af6c258929934397",
+    "agent_name": "claude",
+    "condition_id": "0x5b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "recommendation": "No",
+    "confidence": 0.65,
+    "reason": "Trump's summit with Xi suggests diplomatic engagement and improved US-China relations, reducing likelihood of military conflict like a Taiwan invasion in the near term",
+    "is_judge": 0,
+    "timestamp": "2026-05-12T20:15:45.754327+00:00"
+  },
+  {
+    "id": 46,
+    "session_id": "5c6478402729483e",
+    "agent_name": "claude",
+    "condition_id": "0x7b49b9bacb5f435bc10f3b100ff59e2fdd346f7f92a9001881bc9825a0af0f11",
+    "recommendation": "No",
+    "confidence": 0.65,
+    "reason": "Trump-Xi summit focused on reducing tensions and addressing larger issues suggests diplomatic engagement rather than military conflict. The reference to 'reduced ambitions' and uncertainty indicates cooperation is being pursued, making a Chinese invasion of Taiwan less likely in the near term.",
+    "is_judge": 0,
+    "timestamp": "2026-05-12T18:31:53.243732+00:00"
+  },
+  {
+    "id": 45,
+    "session_id": "96739e4a0dae454a",
+    "agent_name": "claude",
+    "condition_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "recommendation": "No",
+    "confidence": 0.65,
+    "reason": "Pentagon budget discussions and Secretary Hegseth's role indicate Trump administration is operational and focused on defense matters, suggesting Trump remains in office rather than being removed before GTA VI",
+    "is_judge": 0,
+    "timestamp": "2026-05-12T17:55:47.991534+00:00"
+  },
+  {
+    "id": 44,
+    "session_id": "f3305ea1731c4b95",
+    "agent_name": "claude",
+    "condition_id": "0x84f8b70331323c2fba97d7ceaa9a35fb645a0770d0dbff169d07f24f376766e9",
+    "recommendation": "No",
+    "confidence": 0.75,
+    "reason": "Hegseth accompanying Trump on China trip indicates Trump is actively serving as President and conducting official state business, suggesting he will remain in office before GTA VI's release.",
+    "is_judge": 0,
+    "timestamp": "2026-05-12T17:06:39.772241+00:00"
+  },
+  {
     "id": 43,
     "session_id": "c167ff26323747c2",
     "agent_name": "claude",
