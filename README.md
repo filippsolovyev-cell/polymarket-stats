@@ -1,6 +1,6 @@
 # 📊 Polymarket Terminal — Statistics
 
-> Автообновление каждый час | Последнее обновление: **2026-05-14 23:25 UTC**
+> Автообновление каждый час | Последнее обновление: **2026-05-15 00:27 UTC**
 
 ## 🏆 Производительность
 
@@ -12,19 +12,20 @@
 
 ## 📈 Сводка
 
-- **Открытых позиций:** 4
+- **Открытых позиций:** 8
 - **Лучшая сделка:** $+0.00
 - **Худшая сделка:** $+0.00
-- **Средняя ставка:** $2.01 USDC
+- **Средняя ставка:** $2.00 USDC
 
 ## 🕐 Последние сделки
 
 | | Время | Рынок | Тип | Цена | Кол-во |
 |---|-------|-------|-----|------|--------|
+| 🔄 2026-05-15 00:26 | Will any presidential candidate win outright in the fir | BUY | 0.870 | 2.2 |
+| 🔄 2026-05-15 00:26 | Will Abelardo de la Espriella win the 1st round of the  | BUY | 0.867 | 2.3 |
+| 🔄 2026-05-15 00:21 | San Francisco Giants vs. Los Angeles Dodgers | BUY | 0.390 | 5.2 |
+| 🔄 2026-05-15 00:18 | Will CF Pachuca win on 2026-05-14? | BUY | 0.500 | 4.0 |
 | 🔄 2026-05-14 19:22 | Will Iván Cepeda Castro win the 1st round of the 2026 C | BUY | 0.850 | 2.3 |
-| 🔄 2026-05-14 19:19 | Internazionali BNL d'Italia: Martin Landaluce vs Daniil | BUY | 0.830 | 2.5 |
-| 🔄 2026-05-14 19:19 | Girona FC vs. Real Sociedad de Fútbol: O/U 2.5 | BUY | 0.460 | 4.4 |
-| 🔄 2026-05-14 19:13 | Al Qadisiyah Saudi Club vs. Al Hazem SC: Both Teams to  | BUY | 0.690 | 2.9 |
 
 ## 📁 Файлы
 
