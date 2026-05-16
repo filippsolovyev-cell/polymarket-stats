@@ -1,5 +1,16 @@
 [
   {
+    "token_id": "84001958871872382698065661000901363707704455879969183740457806718395695678527",
+    "condition_id": "0x14dbdb6274de6bcc65ce2b628c6636ff210fd452d095b0f14fdb1d376b31cecf",
+    "outcome": "No",
+    "market_question": "Will the Detroit Pistons win the NBA Eastern Conference Finals?",
+    "size": 2.3,
+    "avg_price": 0.86,
+    "cost_usdc": 1.9779999999999998,
+    "opened_at": "2026-05-16T00:41:52.955226+00:00",
+    "strategy": "endgame"
+  },
+  {
     "token_id": "83865883459885058589919321627667096358854631011111428396455777444892238630402",
     "condition_id": "0x24ee87c8a75a107ad38b7820fcd16119408d340f469bbc6d52432d4ffc58a64b",
     "outcome": "FURIA",
