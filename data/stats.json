@@ -1,8 +1,8 @@
 {
   "24h": {
     "period": "24h",
-    "placed_trades": 0,
-    "total_spent": 0,
+    "placed_trades": 1,
+    "total_spent": 2.025,
     "total_trades": 0,
     "won": 0,
     "lost": 0,
@@ -14,8 +14,8 @@
   },
   "7d": {
     "period": "7d",
-    "placed_trades": 1,
-    "total_spent": 1.962,
+    "placed_trades": 2,
+    "total_spent": 3.987,
     "total_trades": 0,
     "won": 0,
     "lost": 0,
@@ -27,8 +27,8 @@
   },
   "all": {
     "period": "all",
-    "placed_trades": 11,
-    "total_spent": 21.9471,
+    "placed_trades": 12,
+    "total_spent": 23.9721,
     "total_trades": 0,
     "won": 0,
     "lost": 0,
@@ -38,5 +38,5 @@
     "best_trade": 0.0,
     "worst_trade": 0.0
   },
-  "synced_at": "2026-05-25T01:22:43.076523+00:00"
+  "synced_at": "2026-05-25T03:25:12.080322+00:00"
 }
