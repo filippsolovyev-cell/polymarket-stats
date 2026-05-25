@@ -1,6 +1,6 @@
 # 📊 Polymarket Terminal — Statistics
 
-> Автообновление каждый час | Последнее обновление: **2026-05-25 00:22 UTC**
+> Автообновление каждый час | Последнее обновление: **2026-05-25 03:25 UTC**
 
 ## 🏆 Производительность
 
@@ -12,7 +12,7 @@
 
 ## 📈 Сводка
 
-- **Открытых позиций:** 11
+- **Открытых позиций:** 12
 - **Лучшая сделка:** $+0.00
 - **Худшая сделка:** $+0.00
 - **Средняя ставка:** $2.00 USDC
@@ -21,11 +21,11 @@
 
 | | Время | Рынок | Тип | Цена | Кол-во |
 |---|-------|-------|-----|------|--------|
+| 🔄 2026-05-25 01:56 | Will CF Cruz Azul win on 2026-05-24? | BUY | 0.810 | 2.5 |
 | 🔄 2026-05-18 06:11 | Will Kylian Mbappe be the top goal scorer in the 2025–2 | BUY | 0.981 | 2.0 |
 | 🔄 2026-05-16 00:41 | Will the Detroit Pistons win the NBA Eastern Conference | BUY | 0.860 | 2.3 |
 | 🔄 2026-05-15 00:30 | Counter-Strike: FURIA vs Team Falcons (BO3) - PGL Astan | BUY | 0.480 | 4.2 |
 | 🔄 2026-05-15 00:26 | Will any presidential candidate win outright in the fir | BUY | 0.870 | 2.2 |
-| 🔄 2026-05-15 00:26 | Will Abelardo de la Espriella win the 1st round of the  | BUY | 0.867 | 2.3 |
 
 ## 📁 Файлы
 
