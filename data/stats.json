@@ -14,8 +14,8 @@
   },
   "7d": {
     "period": "7d",
-    "placed_trades": 2,
-    "total_spent": 3.987,
+    "placed_trades": 1,
+    "total_spent": 2.025,
     "total_trades": 0,
     "won": 0,
     "lost": 0,
@@ -38,5 +38,5 @@
     "best_trade": 0.0,
     "worst_trade": 0.0
   },
-  "synced_at": "2026-05-25T05:28:17.652405+00:00"
+  "synced_at": "2026-05-25T06:29:18.793716+00:00"
 }
