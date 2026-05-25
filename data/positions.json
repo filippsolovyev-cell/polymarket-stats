@@ -1,5 +1,16 @@
 [
   {
+    "token_id": "48760926838169226026687010616242070930640839419402237870675680150750145726482",
+    "condition_id": "0x95baed25d937342d6f707bf647301bf318e59ca3b097de00ed01ee480cdd5724",
+    "outcome": "No",
+    "market_question": "Will CF Cruz Azul win on 2026-05-24?",
+    "size": 2.5,
+    "avg_price": 0.81,
+    "cost_usdc": 2.0250000000000004,
+    "opened_at": "2026-05-25T01:56:35.040215+00:00",
+    "strategy": "copytrade"
+  },
+  {
     "token_id": "50990718602111286221499412828092223474799500548329402570398939983325937296388",
     "condition_id": "0xa449cd8346b6deda561828355ae92b88bd47d989859d2d287ce7e42a42b556c7",
     "outcome": "Yes",
