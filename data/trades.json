@@ -1,5 +1,20 @@
 [
   {
+    "id": 12,
+    "order_id": "0xca161cb1193e9b523e48a4c0c9d7a8ccd583abe9fc296c294a48815347048348",
+    "token_id": "48760926838169226026687010616242070930640839419402237870675680150750145726482",
+    "condition_id": "0x95baed25d937342d6f707bf647301bf318e59ca3b097de00ed01ee480cdd5724",
+    "outcome": "No",
+    "market_question": "Will CF Cruz Azul win on 2026-05-24?",
+    "side": "BUY",
+    "price": 0.81,
+    "size": 2.5,
+    "cost_usdc": 2.0250000000000004,
+    "status": "delayed",
+    "executed_at": "2026-05-25T01:56:35.045425+00:00",
+    "strategy": "copytrade"
+  },
+  {
     "id": 11,
     "order_id": "0x4c8f6478740eeac7d3565de3b1efb2299b9375307a36919e42667a4f9dd45ff7",
     "token_id": "50990718602111286221499412828092223474799500548329402570398939983325937296388",
