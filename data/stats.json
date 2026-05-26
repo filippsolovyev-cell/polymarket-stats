@@ -1,8 +1,8 @@
 {
   "24h": {
     "period": "24h",
-    "placed_trades": 1,
-    "total_spent": 2.025,
+    "placed_trades": 0,
+    "total_spent": 0,
     "total_trades": 0,
     "won": 0,
     "lost": 0,
@@ -38,5 +38,5 @@
     "best_trade": 0.0,
     "worst_trade": 0.0
   },
-  "synced_at": "2026-05-26T01:51:24.356653+00:00"
+  "synced_at": "2026-05-26T03:54:25.128449+00:00"
 }
